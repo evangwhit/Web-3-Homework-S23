@@ -9,12 +9,12 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
-    "\/assets\/about-left.jpg" : {
+    "\/Assets\/2vg3v1wrd6ta1.jpg" : {
       "ft" : 16384,
-      "iS" : 240900,
+      "iS" : 112848,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/about-left.jpg",
+      "oAP" : "\/Assets\/2vg3v1wrd6ta1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -22,12 +22,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/about.jpg" : {
+    "\/Assets\/7ee0akr1tqsa1.jpg" : {
       "ft" : 16384,
-      "iS" : 252641,
+      "iS" : 112748,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/about.jpg",
+      "oAP" : "\/Assets\/7ee0akr1tqsa1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -35,52 +35,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/Andriod.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/Andriod.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/Apple.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/Apple.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/aws.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/aws.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/Google.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/Google.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/hero-2.jpg" : {
+    "\/Assets\/08fa37e5a17531de1f31efc951954e9a.jpg" : {
       "ft" : 16384,
-      "iS" : 1003073,
+      "iS" : 62824,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/hero-2.jpg",
+      "oAP" : "\/Assets\/08fa37e5a17531de1f31efc951954e9a.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -88,12 +48,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/hero.jpg" : {
+    "\/Assets\/033e991046db33ca4d0a64c1d1b96742.jpg" : {
       "ft" : 16384,
-      "iS" : 479600,
+      "iS" : 98704,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/hero.jpg",
+      "oAP" : "\/Assets\/033e991046db33ca4d0a64c1d1b96742.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -101,43 +61,83 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/In-class-S23.fig" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/Assets\/64bd4e83f089ac1c9c52cf89bff93458.jpg" : {
+      "ft" : 16384,
+      "iS" : 27875,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/In-class-S23.fig",
-      "oF" : 0
-    },
-    "\/assets\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/logo.svg",
+      "oAP" : "\/Assets\/64bd4e83f089ac1c9c52cf89bff93458.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/assets\/MS.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/MS.svg",
+    "\/Assets\/791382138da49d75f38bd5555b8028d5.jpg" : {
+      "ft" : 16384,
+      "iS" : 12994,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/791382138da49d75f38bd5555b8028d5.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/assets\/reddit.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/reddit.svg",
+    "\/Assets\/b637375cc072b6ddcb568112933c95aa.jpg" : {
+      "ft" : 16384,
+      "iS" : 136612,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/b637375cc072b6ddcb568112933c95aa.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/e9b301ae6a92711c09ae2bc84ebc744c.jpg" : {
+      "ft" : 16384,
+      "iS" : 25065,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/e9b301ae6a92711c09ae2bc84ebc744c.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/Watches-You-Should-Know-Cartier-Tank-gear-patrol-lead-full.jpg" : {
+      "ft" : 16384,
+      "iS" : 344468,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/Watches-You-Should-Know-Cartier-Tank-gear-patrol-lead-full.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/X1t-0lItOy4-_po-zyY5ca0uTPf-_Vphv5x4tQxjKLw.jpg" : {
+      "ft" : 16384,
+      "iS" : 122815,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/X1t-0lItOy4-_po-zyY5ca0uTPf-_Vphv5x4tQxjKLw.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -283,7 +283,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/about.html",
       "oF" : 0
     },
@@ -291,7 +291,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/hero-2.html",
       "oF" : 0
     },
@@ -299,7 +299,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
@@ -307,7 +307,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/partners.html",
       "oF" : 0
     },
@@ -315,7 +315,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/request.html",
       "oF" : 0
     },
@@ -323,7 +323,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
@@ -339,7 +339,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
@@ -347,7 +347,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
     },
@@ -534,6 +534,25 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
@@ -544,8 +563,8 @@
   },
   "projectAttributes" : {
     "creationDate" : 702560800.42181301,
-    "displayValue" : "InClass-Demo-S23",
-    "displayValueWasSetByUser" : 0,
+    "displayValue" : "Web-3-Homework-S23",
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets_gray",
     "iconImageWasSetByUser" : 0
   },
