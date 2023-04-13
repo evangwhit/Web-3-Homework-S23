@@ -9,25 +9,12 @@
   ],
   "creatorBuild" : "34472",
   "files" : {
-    "\/Assets\/2vg3v1wrd6ta1.jpg" : {
+    "\/Assets\/3watches.jpg" : {
       "ft" : 16384,
-      "iS" : 112848,
+      "iS" : 98704,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assets\/2vg3v1wrd6ta1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Assets\/7ee0akr1tqsa1.jpg" : {
-      "ft" : 16384,
-      "iS" : 112748,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/7ee0akr1tqsa1.jpg",
+      "oAP" : "\/Assets\/3watches.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -48,38 +35,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assets\/033e991046db33ca4d0a64c1d1b96742.jpg" : {
-      "ft" : 16384,
-      "iS" : 98704,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/033e991046db33ca4d0a64c1d1b96742.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Assets\/64bd4e83f089ac1c9c52cf89bff93458.jpg" : {
-      "ft" : 16384,
-      "iS" : 27875,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/64bd4e83f089ac1c9c52cf89bff93458.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Assets\/791382138da49d75f38bd5555b8028d5.jpg" : {
+    "\/Assets\/breda.jpg" : {
       "ft" : 16384,
       "iS" : 12994,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assets\/791382138da49d75f38bd5555b8028d5.jpg",
+      "oAP" : "\/Assets\/breda.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -87,12 +48,48 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assets\/b637375cc072b6ddcb568112933c95aa.jpg" : {
+    "\/Assets\/detail.jpg" : {
+      "ft" : 16384,
+      "iS" : 1668695,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/detail.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/detail.png" : {
+      "ft" : 32768,
+      "iS" : 727695,
+      "oA" : 0,
+      "oAP" : "\/Assets\/detail.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/Assets\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Assets\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/Assets\/oysterdatejust.jpg" : {
       "ft" : 16384,
       "iS" : 136612,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assets\/b637375cc072b6ddcb568112933c95aa.jpg",
+      "oAP" : "\/Assets\/oysterdatejust.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -100,25 +97,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assets\/e9b301ae6a92711c09ae2bc84ebc744c.jpg" : {
-      "ft" : 16384,
-      "iS" : 25065,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/e9b301ae6a92711c09ae2bc84ebc744c.jpg",
+    "\/Assets\/searchicon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/Assets\/searchicon.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/Assets\/Watches-You-Should-Know-Cartier-Tank-gear-patrol-lead-full.jpg" : {
+    "\/Assets\/tank.jpg" : {
       "ft" : 16384,
       "iS" : 344468,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assets\/Watches-You-Should-Know-Cartier-Tank-gear-patrol-lead-full.jpg",
+      "oAP" : "\/Assets\/tank.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -126,12 +120,64 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assets\/X1t-0lItOy4-_po-zyY5ca0uTPf-_Vphv5x4tQxjKLw.jpg" : {
+    "\/Assets\/wrist1.jpg" : {
+      "ft" : 16384,
+      "iS" : 112848,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/wrist1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/wrist2.jpg" : {
+      "ft" : 16384,
+      "iS" : 112748,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/wrist2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/wrist3.jpg" : {
+      "ft" : 16384,
+      "iS" : 25065,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/wrist3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/wrist4.jpg" : {
       "ft" : 16384,
       "iS" : 122815,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assets\/X1t-0lItOy4-_po-zyY5ca0uTPf-_Vphv5x4tQxjKLw.jpg",
+      "oAP" : "\/Assets\/wrist4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Assets\/wrist5.jpg" : {
+      "ft" : 16384,
+      "iS" : 27875,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assets\/wrist5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -151,12 +197,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/about\/about-left.jpg" : {
+    "\/deploy\/img\/hero\/tank.jpg" : {
       "ft" : 16384,
-      "iS" : 240900,
+      "iS" : 344468,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about\/about-left.jpg",
+      "oAP" : "\/deploy\/img\/hero\/tank.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -164,22 +210,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/global\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/global\/logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/heroes\/hero-2.jpg" : {
+    "\/deploy\/img\/heroimages2\/detail.jpg" : {
       "ft" : 16384,
-      "iS" : 1003073,
+      "iS" : 1668695,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero-2.jpg",
+      "oAP" : "\/deploy\/img\/heroimages2\/detail.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -187,12 +223,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/heroes\/hero.jpg" : {
+    "\/deploy\/img\/heroimages2\/oysterdatejust.jpg" : {
       "ft" : 16384,
-      "iS" : 479600,
+      "iS" : 136612,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroes\/hero.jpg",
+      "oAP" : "\/deploy\/img\/heroimages2\/oysterdatejust.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -200,65 +236,109 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/partners\/android.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/android.svg",
+    "\/deploy\/img\/heroimages2\/wrist2.jpg" : {
+      "ft" : 16384,
+      "iS" : 112748,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroimages2\/wrist2.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/deploy\/img\/partners\/apple.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/apple.svg",
+    "\/deploy\/img\/navbuttons\/wrist1.jpg" : {
+      "ft" : 16384,
+      "iS" : 112848,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/navbuttons\/wrist1.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/deploy\/img\/partners\/aws.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/aws.svg",
+    "\/deploy\/img\/navbuttons\/wrist4.jpg" : {
+      "ft" : 16384,
+      "iS" : 122815,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/navbuttons\/wrist4.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/deploy\/img\/partners\/google.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/google.svg",
+    "\/deploy\/img\/whatsnewimages\/3watches.jpg" : {
+      "ft" : 16384,
+      "iS" : 98704,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/whatsnewimages\/3watches.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/deploy\/img\/partners\/ms.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/ms.svg",
+    "\/deploy\/img\/whatsnewimages\/backofwatch.jpg" : {
+      "ft" : 16384,
+      "iS" : 62824,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/whatsnewimages\/backofwatch.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/deploy\/img\/partners\/reddit.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/partners\/reddit.svg",
+    "\/deploy\/img\/whatsnewimages\/breda.jpg" : {
+      "ft" : 16384,
+      "iS" : 12994,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/whatsnewimages\/breda.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/whatsnewimages\/wrist3.jpg" : {
+      "ft" : 16384,
+      "iS" : 25065,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/whatsnewimages\/wrist3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/whatsnewimages\/wrist5.jpg" : {
+      "ft" : 16384,
+      "iS" : 27875,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/whatsnewimages\/wrist5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -279,28 +359,28 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/content\/about.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/about.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/hero-2.html",
-      "oF" : 0
-    },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/heroimages.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/heroimages.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/navigationbuttons.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/navigationbuttons.html",
       "oF" : 0
     },
     "\/dev\/content\/partners.kit" : {
@@ -311,19 +391,19 @@
       "oAP" : "\/dev\/content\/partners.html",
       "oF" : 0
     },
-    "\/dev\/content\/request.kit" : {
+    "\/dev\/content\/whatsnew.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/request.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/whatsnew.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
@@ -339,7 +419,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
