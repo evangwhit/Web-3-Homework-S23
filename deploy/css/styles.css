@@ -327,6 +327,25 @@ template {
 /* =============
     Base
 ============= */
+.large-imgs img {
+  width: 100%;
+}
+
+.header-footer-grids {
+  background-color: black;
+  color: white;
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". header-footer .";
+}
+.header-footer-grids .parent-header-footer {
+  grid-area: header-footer;
+}
+
+section {
+  width: 100vw;
+}
+
 /* =============
     Typography
 ============= */
@@ -357,6 +376,15 @@ textarea {
 /* =============
     Header
 ============= */
+header .search-bar {
+  background-color: white;
+  color: black;
+}
+
 /* =============
     Footer
 ============= */
+/* Hero bar */
+.hero-bar .item1 {
+  background-color: blue;
+}
