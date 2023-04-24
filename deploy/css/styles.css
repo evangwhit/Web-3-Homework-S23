@@ -385,6 +385,53 @@ header .search-bar {
     Footer
 ============= */
 /* Hero bar */
+.hero-bar li {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". div .";
+}
+.hero-bar li div {
+  grid-area: div;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  grid-template-areas: "top button" "text button";
+}
+.hero-bar li div .bottom {
+  grid-area: text;
+}
+.hero-bar li div .top {
+  grid-area: top;
+}
+.hero-bar li div button {
+  grid-area: button;
+}
 .hero-bar .item1 {
-  background-color: blue;
+  background-color: red;
+}
+.hero-bar .item2 {
+  background-color: gray;
+}
+
+.navbuttons li {
+  background-color: gray;
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". div .";
+}
+.navbuttons li div {
+  grid-area: div;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  grid-template-areas: "text img" "button img";
+}
+.navbuttons li div h2 {
+  grid-area: text;
+}
+.navbuttons li div img {
+  grid-area: img;
+}
+.navbuttons li div button {
+  grid-area: button;
 }
