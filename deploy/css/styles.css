@@ -389,6 +389,33 @@ header .search-bar {
 /* =============
     Footer
 ============= */
+footer li div {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-areas: "icon text";
+}
+footer li div img {
+  grid-area: icon;
+}
+footer li div p {
+  grid-area: text;
+}
+footer .email-input {
+  display: grid;
+  grid-template: repeat(3, 50px);
+}
+footer .email-input button {
+  margin-top: 24px;
+  margin-left: auto;
+  width: 74px;
+}
+footer .follow-us div {
+  width: 50%;
+  display: inline-grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 24px;
+}
+
 /* Hero bar */
 .hero-bar li {
   display: grid;
@@ -452,10 +479,11 @@ Hero Section 2 with images
 What's New section
  ========*/
 .whats-new li {
+  background-color: gray;
   display: grid;
   grid-template-columns: 16px auto 16px;
-  grid-template-rows: auto auto;
-  grid-template-areas: "img img img" ". div .";
+  grid-template-rows: auto auto 16px;
+  grid-template-areas: "img img img" ". div ." ". . .";
 }
 .whats-new li img {
   grid-area: img;
