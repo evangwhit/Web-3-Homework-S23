@@ -1,0 +1,27 @@
+/*======== 
+What's New section
+ ========*/
+
+ .whats-new{
+    li{
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-rows: auto auto;
+        grid-template-areas: 
+        "img img img"
+        ". div ." ;
+
+        img{
+            grid-area: img;
+
+        }
+        div{
+            grid-area: div;
+        }
+    }
+
+    
+
+
+
+ }

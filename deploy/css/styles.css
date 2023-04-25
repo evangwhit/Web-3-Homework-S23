@@ -346,6 +346,11 @@ section {
   width: 100vw;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 /* =============
     Typography
 ============= */
@@ -434,4 +439,27 @@ header .search-bar {
 }
 .navbuttons li div button {
   grid-area: button;
+}
+
+/*========== 
+Hero Section 2 with images 
+==========*/
+.heroimages2 .not-on-mobile {
+  display: none;
+}
+
+/*======== 
+What's New section
+ ========*/
+.whats-new li {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-rows: auto auto;
+  grid-template-areas: "img img img" ". div .";
+}
+.whats-new li img {
+  grid-area: img;
+}
+.whats-new li div {
+  grid-area: div;
 }
