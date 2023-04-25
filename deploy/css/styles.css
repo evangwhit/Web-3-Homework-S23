@@ -439,10 +439,11 @@ footer .follow-us div {
   grid-area: button;
 }
 .hero-bar .item1 {
-  background-color: red;
+  background-color: #1C3859;
+  color: white;
 }
 .hero-bar .item2 {
-  background-color: gray;
+  border-bottom: 1px solid;
 }
 
 .navbuttons li {
@@ -479,8 +480,9 @@ Hero Section 2 with images
 What's New section
  ========*/
 .whats-new li {
-  background-color: gray;
+  background-color: #F0F0F0;
   display: grid;
+  margin-bottom: 40px;
   grid-template-columns: 16px auto 16px;
   grid-template-rows: auto auto 16px;
   grid-template-areas: "img img img" ". div ." ". . .";
@@ -490,4 +492,11 @@ What's New section
 }
 .whats-new li div {
   grid-area: div;
+}
+.whats-new li button {
+  background-color: #1C3859;
+  color: white;
+  border: none;
+  width: 97px;
+  height: 27px;
 }

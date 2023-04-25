@@ -3,9 +3,11 @@ What's New section
  ========*/
 
  .whats-new{
+
     li{
-        background-color: gray;
+        background-color: #F0F0F0;
         display: grid;
+        margin-bottom: 40px;
         grid-template-columns: 16px auto 16px;
         grid-template-rows: auto auto 16px;
         grid-template-areas: 
@@ -19,6 +21,16 @@ What's New section
         }
         div{
             grid-area: div;
+        }
+
+        button{
+            background-color: #1C3859;
+            color: white;
+            border: none;
+            width: 97px;
+            height: 27px;
+            
+
         }
     }
 
