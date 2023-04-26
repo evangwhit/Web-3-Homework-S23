@@ -6,29 +6,18 @@ What's New section
 
     li{
         background-color: #F0F0F0;
-        display: grid;
-        margin-bottom: 40px;
-        grid-template-columns: 16px auto 16px;
-        grid-template-rows: auto auto 16px;
-        grid-template-areas: 
-        "img img img"
-        ". div ." 
-        ". . .";
 
-        img{
-            grid-area: img;
-
-        }
         div{
             grid-area: div;
+            padding: 16px;
         }
 
         button{
             background-color: #1C3859;
             color: white;
             border: none;
-            width: 97px;
-            height: 27px;
+            padding: 0 24px;
+            height: 40px;
             
 
         }

@@ -389,16 +389,12 @@ header .search-bar {
 /* =============
     Footer
 ============= */
-footer li div {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-template-areas: "icon text";
-}
 footer li div img {
-  grid-area: icon;
+  display: inline;
+  padding: 0 16px 0 0;
 }
 footer li div p {
-  grid-area: text;
+  display: inline;
 }
 footer .email-input {
   display: grid;
@@ -409,11 +405,8 @@ footer .email-input button {
   margin-left: auto;
   width: 74px;
 }
-footer .follow-us div {
-  width: 50%;
-  display: inline-grid;
-  grid-template-columns: repeat(4, auto);
-  gap: 24px;
+footer .follow-us img {
+  padding: 0 8px;
 }
 
 /* Hero bar */
@@ -481,22 +474,15 @@ What's New section
  ========*/
 .whats-new li {
   background-color: #F0F0F0;
-  display: grid;
-  margin-bottom: 40px;
-  grid-template-columns: 16px auto 16px;
-  grid-template-rows: auto auto 16px;
-  grid-template-areas: "img img img" ". div ." ". . .";
-}
-.whats-new li img {
-  grid-area: img;
 }
 .whats-new li div {
   grid-area: div;
+  padding: 16px;
 }
 .whats-new li button {
   background-color: #1C3859;
   color: white;
   border: none;
-  width: 97px;
-  height: 27px;
+  padding: 0 24px;
+  height: 40px;
 }

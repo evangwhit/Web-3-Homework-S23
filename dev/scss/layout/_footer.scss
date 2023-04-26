@@ -4,18 +4,16 @@
 
 footer{
     li{
-        div{
-            display: grid;
-            grid-template-columns: auto auto;
-            grid-template-areas: "icon text";
-
+        div{            
             img{
-                grid-area: icon;
+                display: inline;
+                padding: 0 16px 0 0;
             }
-            p{
-                grid-area: text;
 
+            p{
+                display: inline;
             }
+        
         }
 
     }
@@ -32,11 +30,8 @@ footer{
     }
 
     .follow-us{
-        div{
-            width: 50%;
-            display: inline-grid;
-            grid-template-columns: repeat(4, auto);
-            gap: 24px;
+        img{
+            padding: 0 8px;
         }
 
     }
