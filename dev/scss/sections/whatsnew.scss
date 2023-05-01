@@ -11,20 +11,49 @@ What's New section
             grid-area: div;
             padding: 16px;
         }
-
-        button{
-            background-color: #1C3859;
-            color: white;
-            border: none;
-            padding: 0 24px;
-            height: 40px;
-            
-
-        }
     }
 
+    @include md{
+        ul{
+            gap: 16px;
+            margin: 16px;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-areas:
+            "li1 li1 li2 li2"
+            "li3 li3 li4 li4"
+            "... li5 li5 ...";
+
+            .li1{
+                grid-area: li1;
+            }
+            .li2{
+                grid-area: li2;
+            }
+            .li3{
+                grid-area: li3;
+            }
+            .li4{
+                grid-area: li4;
+            }
+            .li5{
+                grid-area: li5;
+            }
+
+        }
     
+    }
 
+    @include lg{
+        max-width: 1440px;
+        margin: 0 auto;
+        ul{
+            grid-template-columns: repeat(6, 1fr);
+            grid-template-areas:
+            "li1 li1 li2 li2 li3 li3"
+            "... li4 li4 li5 li5 ...";
+        }
 
+    }
 
  }

@@ -403,7 +403,6 @@ footer .email-input {
 footer .email-input button {
   margin-top: 24px;
   margin-left: auto;
-  width: 74px;
 }
 footer .follow-us img {
   padding: 0 8px;
@@ -493,8 +492,8 @@ footer .follow-us img {
 /*========== 
 Hero Section 2 with images 
 ==========*/
-.heroimages2 {
-  width: 100%;
+.heroimages2 .img3 {
+  display: none;
 }
 @media (min-width: 768px) {
   .heroimages2 ul {
@@ -503,17 +502,23 @@ Hero Section 2 with images
   }
 }
 @media (min-width: 1440px) {
-  .heroimages2 {
+  .heroimages2 ul {
+    height: 85vh;
+    overflow: hidden;
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 60% auto;
+    grid-template-rows: 50% 50%;
+    grid-template-areas: "img1 img2" "img1 img3";
   }
-}
-.heroimages2 .img3 {
-  display: none;
-}
-@media (min-width: 1440px) {
-  .heroimages2 .img3 {
+  .heroimages2 ul .img1 {
+    grid-area: img1;
+  }
+  .heroimages2 ul .img2 {
+    grid-area: img2;
+  }
+  .heroimages2 ul .img3 {
     display: block;
+    grid-area: img3;
   }
 }
 
@@ -527,10 +532,37 @@ What's New section
   grid-area: div;
   padding: 16px;
 }
-.whats-new li button {
-  background-color: #1C3859;
-  color: white;
-  border: none;
-  padding: 0 24px;
-  height: 40px;
+@media (min-width: 768px) {
+  .whats-new ul {
+    gap: 16px;
+    margin: 16px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas: "li1 li1 li2 li2" "li3 li3 li4 li4" "... li5 li5 ...";
+  }
+  .whats-new ul .li1 {
+    grid-area: li1;
+  }
+  .whats-new ul .li2 {
+    grid-area: li2;
+  }
+  .whats-new ul .li3 {
+    grid-area: li3;
+  }
+  .whats-new ul .li4 {
+    grid-area: li4;
+  }
+  .whats-new ul .li5 {
+    grid-area: li5;
+  }
+}
+@media (min-width: 1024px) {
+  .whats-new {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .whats-new ul {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-areas: "li1 li1 li2 li2 li3 li3" "... li4 li4 li5 li5 ...";
+  }
 }
