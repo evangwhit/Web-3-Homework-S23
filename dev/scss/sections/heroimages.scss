@@ -3,9 +3,30 @@ Hero Section 2 with images
 ==========*/
 
 .heroimages2{
-
-    .not-on-mobile{
-    display: none;
+    width: 100%;
+    
+    @include md{
+        ul{
+         display: grid;
+         grid-template-columns: 3fr 2fr;
+        }
+         
     }
 
+    @include xxl{
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+    }
+
+
+    .img3{
+    display: none;
+
+    @include xxl{
+        display: block;
+    }
+    }
+
+   
+   
 }

@@ -1,11 +1,21 @@
 /* Hero bar */
 
 .hero-bar{
-
+   
+   @include md{
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+   }
+@include lg{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+}
    li{
       display: grid;
       grid-template-columns: 16px auto 16px;
       grid-template-areas: ". div .";
+
+      
 
       div{
          grid-area: div;
@@ -41,6 +51,18 @@
 
 .navbuttons{
 
+   @include md{
+      display: grid;
+      gap: 16px;
+      padding: 0 16px;
+      grid-template-columns: 1fr 1fr;
+   }
+
+   @include xxl{
+      max-width: 1440px;
+      margin: 0 auto;
+   }
+
    li{
       background-color: gray;
       display: grid;
@@ -63,6 +85,8 @@
          }
          img{
             grid-area: img;
+            height: 100%;
+            width: auto;
          }
          button{
             grid-area: button;
