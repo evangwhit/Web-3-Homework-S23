@@ -389,6 +389,26 @@ header .search-bar {
 /* =============
     Footer
 ============= */
+@media (min-width: 768px) {
+  footer .parent-header-footer {
+    display: grid;
+    grid-template-columns: 50% auto;
+    grid-template-areas: "locations newsletter" "locations socials";
+  }
+}
+@media (min-width: 1024px) {
+  footer .parent-header-footer {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas: "locations newsletter socials";
+  }
+}
+@media (min-width: 1440px) {
+  footer .parent-header-footer {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+  }
+}
 footer li div img {
   display: inline;
   padding: 0 16px 0 0;
@@ -396,16 +416,32 @@ footer li div img {
 footer li div p {
   display: inline;
 }
+@media (min-width: 768px) {
+  footer .locations {
+    grid-area: locaations;
+  }
+}
 footer .email-input {
   display: grid;
-  grid-template: repeat(3, 50px);
+  grid-template: repeat(3, 1fr);
 }
 footer .email-input button {
   margin-top: 24px;
   margin-left: auto;
 }
+@media (min-width: 768px) {
+  footer .email-input {
+    height: 200px;
+    grid-area: newsletter;
+  }
+}
 footer .follow-us img {
   padding: 0 8px;
+}
+@media (min-width: 768px) {
+  footer .follow-us {
+    grid-area: socials;
+  }
 }
 
 /* Hero bar */

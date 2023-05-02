@@ -3,6 +3,28 @@
 ============= */
 
 footer{
+    .parent-header-footer{
+        @include md{
+            display: grid;
+            grid-template-columns: 50% auto;
+            grid-template-areas: 
+            "locations newsletter"
+            "locations socials";
+        }
+
+        @include lg{
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-areas: 
+            "locations newsletter socials"
+        }
+
+        @include xxl{
+            max-width: 1440px;
+            width: 100%;
+            margin: 0 auto;
+        }
+
+    }
     li{
         div{            
             img{
@@ -18,13 +40,24 @@ footer{
 
     }
 
+    .locations{
+        @include md{
+            grid-area: locaations;
+        }
+    }
+
     .email-input{
         display: grid;
-        grid-template: repeat(3, 50px);
+        grid-template: repeat(3, 1fr);
 
         button{
             margin-top: 24px;
             margin-left: auto;
+        }
+
+        @include md{ 
+            height: 200px;
+            grid-area: newsletter;
         }
     }
 
@@ -33,5 +66,12 @@ footer{
             padding: 0 8px;
         }
 
+        @include md{
+            grid-area: socials;
+        }
+
     }
+
+
 }
+
