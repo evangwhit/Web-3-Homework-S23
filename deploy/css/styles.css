@@ -381,9 +381,57 @@ textarea {
 /* =============
     Header
 ============= */
-header .search-bar {
+header .nav-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+header .nav-bar img {
+  padding: 24px 40px 24px 24px;
+  height: 60px;
+  width: 60px;
+}
+header .nav-bar div {
+  display: none;
+  flex-direction: column;
+  gap: 0;
+}
+@media (min-width: 768px) {
+  header .nav-bar div {
+    display: flex;
+  }
+}
+header .nav-bar div h2, header .nav-bar div p {
+  margin: 0;
+  padding: 0;
+}
+
+.search-bar {
   background-color: white;
   color: black;
+  width: 100%;
+}
+.search-bar div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  baseline: middle;
+  max-width: 980px;
+  margin: auto;
+}
+.search-bar div h2 {
+  box-sizing: border-box;
+  width: 100%;
+  border-bottom: 1px solid #000;
+}
+.search-bar div button {
+  padding: 8px;
+  border: none;
+  background-color: transparent;
+  height: 35px;
+  width: 35px;
 }
 
 /* =============
