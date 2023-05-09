@@ -7,6 +7,7 @@ footer{
         @include md{
             display: grid;
             grid-template-columns: 50% auto;
+            column-gap: 24px;
             grid-template-areas: 
             "locations newsletter"
             "locations socials";
@@ -42,7 +43,12 @@ footer{
 
     .locations{
         @include md{
-            grid-area: locaations;
+            grid-area: locations;
+        }
+
+        div{
+            display: flex;
+
         }
     }
 
@@ -53,6 +59,14 @@ footer{
         button{
             margin-top: 24px;
             margin-left: auto;
+            padding: 4px 16px;
+            background-color: transparent;
+            color: white;
+            border: 1px solid var(--white);
+        }
+
+        input{
+            padding: 8px 12px;
         }
 
         @include md{ 
@@ -62,6 +76,13 @@ footer{
     }
 
     .follow-us{
+       
+       @include lg{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+       } 
+       
         img{
             padding: 0 8px;
         }
