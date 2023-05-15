@@ -643,6 +643,16 @@ footer .follow-us img {
 /*========== 
 Hero Section 2 with images 
 ==========*/
+.heroimages2 .img1 {
+  background-image: url("../img/heroimages2/detail.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.heroimages2 .img2 {
+  background-image: url("../img/heroimages2/oysterdatejust.jpg");
+  background-size: cover;
+  background-position: center;
+}
 .heroimages2 .img3 {
   display: none;
 }
@@ -650,6 +660,12 @@ Hero Section 2 with images
   .heroimages2 ul {
     display: grid;
     grid-template-columns: 3fr 2fr;
+    height: 600px;
+  }
+}
+@media (min-width: 1200px) {
+  .heroimages2 {
+    height: 75vh;
   }
 }
 @media (min-width: 1440px) {

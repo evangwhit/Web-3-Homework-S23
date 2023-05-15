@@ -3,19 +3,35 @@ Hero Section 2 with images
 ==========*/
 
 .heroimages2{
+    .img1{
+        background-image: url("../img/heroimages2/detail.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+
+    .img2{
+    background-image: url("../img/heroimages2/oysterdatejust.jpg");
+    background-size: cover;
+    background-position: center;
+    }
     .img3{
         display: none;
     }
+    
     
     
     @include md{
         ul{
          display: grid;
          grid-template-columns: 3fr 2fr;
+         height: 600px;
         }
          
     }
 
+    @include xl{
+        height: 75vh;
+    }
     @include xxl{
         ul{
             height: 85vh;
