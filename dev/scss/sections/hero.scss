@@ -1,6 +1,22 @@
 .main-hero-img{
-    height: auto;
-    img{
-    width: 100%;
+    height: 250px;
+    background-image: url("../img/hero/tank.jpg");
+    background-size: cover;
+    background-position: center;
+
+    @include md{
+        height: 430px;
+    }
+
+    @include lg{
+        height: 580px;
+    }
+
+    @include xl{
+        height: 600px;
+    }
+
+    @include xxl{
+        height: 1000px;
     }
 }
