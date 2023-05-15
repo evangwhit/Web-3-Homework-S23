@@ -25,7 +25,7 @@
       "oAP" : "\/Assets\/3watches.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -38,7 +38,7 @@
       "oAP" : "\/Assets\/08fa37e5a17531de1f31efc951954e9a.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -51,7 +51,7 @@
       "oAP" : "\/Assets\/breda.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -64,7 +64,7 @@
       "oAP" : "\/Assets\/detail.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -212,7 +212,7 @@
       "oAP" : "\/Assets\/wrist3.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -238,7 +238,7 @@
       "oAP" : "\/Assets\/wrist5.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -347,7 +347,7 @@
     },
     "\/deploy\/img\/hero\/tank.jpg" : {
       "ft" : 16384,
-      "iS" : 344468,
+      "iS" : 245271,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/hero\/tank.jpg",
@@ -360,7 +360,7 @@
     },
     "\/deploy\/img\/heroimages2\/detail.jpg" : {
       "ft" : 16384,
-      "iS" : 1668695,
+      "iS" : 174625,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/heroimages2\/detail.jpg",
@@ -373,7 +373,7 @@
     },
     "\/deploy\/img\/heroimages2\/oysterdatejust.jpg" : {
       "ft" : 16384,
-      "iS" : 136612,
+      "iS" : 134579,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/heroimages2\/oysterdatejust.jpg",
@@ -386,7 +386,7 @@
     },
     "\/deploy\/img\/heroimages2\/wrist2.jpg" : {
       "ft" : 16384,
-      "iS" : 112748,
+      "iS" : 54871,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/heroimages2\/wrist2.jpg",
@@ -399,7 +399,7 @@
     },
     "\/deploy\/img\/navbuttons\/wrist1.jpg" : {
       "ft" : 16384,
-      "iS" : 112848,
+      "iS" : 56412,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/navbuttons\/wrist1.jpg",
@@ -412,7 +412,7 @@
     },
     "\/deploy\/img\/navbuttons\/wrist4.jpg" : {
       "ft" : 16384,
-      "iS" : 122815,
+      "iS" : 52750,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/navbuttons\/wrist4.jpg",
@@ -425,7 +425,7 @@
     },
     "\/deploy\/img\/whatsnewimages\/3watches.jpg" : {
       "ft" : 16384,
-      "iS" : 98704,
+      "iS" : 90321,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/whatsnewimages\/3watches.jpg",
@@ -438,7 +438,7 @@
     },
     "\/deploy\/img\/whatsnewimages\/backofwatch.jpg" : {
       "ft" : 16384,
-      "iS" : 62824,
+      "iS" : 62765,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/whatsnewimages\/backofwatch.jpg",
@@ -451,7 +451,7 @@
     },
     "\/deploy\/img\/whatsnewimages\/breda.jpg" : {
       "ft" : 16384,
-      "iS" : 12994,
+      "iS" : 10822,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/whatsnewimages\/breda.jpg",
@@ -464,7 +464,7 @@
     },
     "\/deploy\/img\/whatsnewimages\/wrist3.jpg" : {
       "ft" : 16384,
-      "iS" : 25065,
+      "iS" : 23212,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/whatsnewimages\/wrist3.jpg",

@@ -666,6 +666,7 @@ What's New section
   background-color: var(--blue);
   color: var(--white);
   padding: 8px 16px;
+  border: none;
 }
 .whats-new li {
   background-color: var(--white);
