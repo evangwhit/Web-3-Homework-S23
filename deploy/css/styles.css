@@ -610,6 +610,8 @@ footer .follow-us img {
     padding: 8px;
     display: flex;
     justify-content: row;
+    max-width: 1440px;
+    margin: auto;
   }
 }
 .navbuttons li {
@@ -643,6 +645,9 @@ footer .follow-us img {
 /*========== 
 Hero Section 2 with images 
 ==========*/
+.heroimages2 {
+  margin-top: 64px;
+}
 .heroimages2 .img1 {
   background-image: url("../img/heroimages2/detail.jpg");
   background-size: cover;
@@ -655,6 +660,9 @@ Hero Section 2 with images
 }
 .heroimages2 .img3 {
   display: none;
+  background-image: url("../img/heroimages2/wrist2.jpg");
+  background-size: cover;
+  background-position: center;
 }
 @media (min-width: 768px) {
   .heroimages2 ul {
@@ -663,14 +671,14 @@ Hero Section 2 with images
     height: 600px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1440px) {
   .heroimages2 {
     height: 75vh;
   }
 }
 @media (min-width: 1440px) {
   .heroimages2 ul {
-    height: 85vh;
+    height: 70vh;
     overflow: hidden;
     display: grid;
     grid-template-columns: 60% auto;
@@ -695,21 +703,39 @@ What's New section
 .whats-new h2 {
   padding: 0px 16px;
 }
-.whats-new ul div {
+.whats-new ul section {
   padding: 16px;
+  width: 100% button;
+  width-background-color: var(--blue);
+  width-color: var(--white);
+  width-padding: 8px 16px;
+  width-border: none;
 }
-.whats-new ul div button {
-  background-color: var(--blue);
-  color: var(--white);
-  padding: 8px 16px;
-  border: none;
+.whats-new ul div {
+  background-size: cover;
+  background-position: center;
+  height: 184px;
+}
+.whats-new ul .li1 div {
+  background-image: url("../img/whatsnewimages/3watches.jpg");
+}
+.whats-new ul .li2 div {
+  background-image: url("../img/whatsnewimages/wrist3.jpg");
+}
+.whats-new ul .li3 div {
+  background-image: url("../img/whatsnewimages/breda.jpg");
+}
+.whats-new ul .li4 div {
+  background-image: url("../img/whatsnewimages/wrist5.jpg");
+}
+.whats-new ul .li5 div {
+  background-image: url("../img/whatsnewimages/backofwatch.jpg");
 }
 .whats-new li {
   background-color: var(--white);
   box-shadow: 0px 12px 26px rgba(42, 48, 54, 0.2);
 }
-.whats-new li div {
-  grid-area: div;
+.whats-new li section {
   padding: 16px;
 }
 @media (min-width: 768px) {
@@ -738,7 +764,7 @@ What's New section
 }
 @media (min-width: 1024px) {
   .whats-new {
-    max-width: 1440px;
+    max-width: 990px;
     margin: 0 auto;
   }
   .whats-new ul {

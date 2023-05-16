@@ -3,6 +3,7 @@ Hero Section 2 with images
 ==========*/
 
 .heroimages2{
+    margin-top: 64px;
     .img1{
         background-image: url("../img/heroimages2/detail.jpg");
         background-size: cover;
@@ -14,8 +15,12 @@ Hero Section 2 with images
     background-size: cover;
     background-position: center;
     }
+
     .img3{
         display: none;
+        background-image: url("../img/heroimages2/wrist2.jpg");
+        background-size: cover;
+        background-position: center;
     }
     
     
@@ -29,12 +34,12 @@ Hero Section 2 with images
          
     }
 
-    @include xl{
+    @include xxl{
         height: 75vh;
     }
     @include xxl{
         ul{
-            height: 85vh;
+            height: 70vh;
             overflow: hidden;
             display: grid;
             grid-template-columns: 60% auto;
