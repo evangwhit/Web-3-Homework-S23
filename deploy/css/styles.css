@@ -703,13 +703,27 @@ What's New section
 .whats-new h2 {
   padding: 0px 16px;
 }
-.whats-new ul section {
-  padding: 16px;
-  width: 100% button;
-  width-background-color: var(--blue);
-  width-color: var(--white);
-  width-padding: 8px 16px;
-  width-border: none;
+.whats-new ul li {
+  background-color: var(--white);
+  box-shadow: 0px 12px 26px rgba(42, 48, 54, 0.2);
+}
+.whats-new ul li section {
+  padding: 0px 16px;
+  height: 20vh;
+  width: auto;
+  position: relative;
+}
+.whats-new ul li section p {
+  height: auto;
+}
+.whats-new ul li section button {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  background-color: var(--blue);
+  color: var(--white);
+  padding: 8px 16px;
+  border: none;
 }
 .whats-new ul div {
   background-size: cover;
@@ -730,13 +744,6 @@ What's New section
 }
 .whats-new ul .li5 div {
   background-image: url("../img/whatsnewimages/backofwatch.jpg");
-}
-.whats-new li {
-  background-color: var(--white);
-  box-shadow: 0px 12px 26px rgba(42, 48, 54, 0.2);
-}
-.whats-new li section {
-  padding: 16px;
 }
 @media (min-width: 768px) {
   .whats-new ul {

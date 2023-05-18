@@ -7,18 +7,35 @@ What's New section
     h2{
         padding: 0px 16px;
     }
-    ul{
-        section{
-            padding: 16px;
-            width: 100%
 
-            button{
-                background-color: var(--blue);
-                color: var(--white);
-                padding: 8px 16px;
-                border: none;
+    ul{
+        li{
+            background-color: var(--white);
+            box-shadow: 0px 12px 26px rgba(42, 48, 54, 0.2);
+
+
+            section{
+                padding: 0px 16px;
+                height: 20vh;
+                width: auto;
+                position: relative;
+                
+                p{
+                    height: auto;
                 }
 
+                button{
+                    position: absolute;
+                    left: 16px;
+                    bottom: 16px;
+                    background-color: var(--blue);
+                    color: var(--white);
+                    padding: 8px 16px;
+                    border: none;
+                    
+                }
+            }   
+       
         }
 
         div{
@@ -53,17 +70,6 @@ What's New section
                 }
             }
 
-    }
-
-
-    li{
-        background-color: var(--white);
-        box-shadow: 0px 12px 26px rgba(42, 48, 54, 0.2);
-        
-        section{
-            padding: 16px;
-       
-        }
     }
 
     @include md{
