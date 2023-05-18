@@ -634,19 +634,12 @@ footer .follow-us img {
   padding: 4px 12px;
 }
 .navbuttons li aside {
-  height: 112px;
-  width: 112px;
   margin-left: auto;
-  background-position: center;
+}
+.navbuttons li aside img {
+  width: 112px;
+  height: 112px;
   border-radius: 100%;
-}
-.navbuttons li .aside1 {
-  background-image: url("../img/navbuttons/wrist1.jpg");
-  background-size: cover;
-}
-.navbuttons li .aside2 {
-  background-image: url("../img/navbuttons/wrist4.jpg");
-  background-size: cover;
 }
 
 /*========== 
