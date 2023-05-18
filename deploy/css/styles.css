@@ -356,6 +356,22 @@ ul {
 /* =============
     Typography
 ============= */
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3, h5, h6 {
+  font-family: "Playfair Display", serif;
+}
+
+h2, h3 {
+  font-size: 29px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
 /* =============
     Buttons
 ============= */
@@ -574,6 +590,9 @@ footer .follow-us img {
   width: 100%;
   max-width: 480px;
 }
+.hero-bar li section div p span {
+  font-weight: bold;
+}
 .hero-bar li section button {
   background-color: transparent;
   border: none;
@@ -614,6 +633,16 @@ footer .follow-us img {
     margin: auto;
   }
 }
+.navbuttons h2 {
+  margin: 0;
+  margin-bottom: 8px;
+}
+@media (min-width: 1024px) {
+  .navbuttons h2 {
+    margin: 0;
+    margin-bottom: 16px;
+  }
+}
 .navbuttons li {
   background-color: var(--gray);
   width: 100%;
@@ -629,17 +658,26 @@ footer .follow-us img {
     margin: 0 8px;
   }
 }
+.navbuttons li div {
+  width: 70%;
+}
 .navbuttons li button {
   background-color: transparent;
   padding: 4px 12px;
 }
 .navbuttons li aside {
   margin-left: auto;
-}
-.navbuttons li aside img {
   width: 112px;
   height: 112px;
   border-radius: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.navbuttons li .asideimg1 {
+  background-image: url("../img/navbuttons/wrist4.jpg");
+}
+.navbuttons li .asideimg2 {
+  background-image: url("../img/navbuttons/wrist1.jpg");
 }
 
 /*========== 
@@ -709,11 +747,21 @@ What's New section
 }
 .whats-new ul li section {
   padding: 0px 16px;
-  height: 20vh;
+  height: 25vh;
   width: auto;
   position: relative;
 }
+@media (min-width: 1440px) {
+  .whats-new ul li section {
+    height: 13vh;
+  }
+}
+.whats-new ul li section h3 {
+  margin: 0;
+  margin-top: 16px;
+}
 .whats-new ul li section p {
+  margin-top: 12px;
   height: auto;
 }
 .whats-new ul li section button {

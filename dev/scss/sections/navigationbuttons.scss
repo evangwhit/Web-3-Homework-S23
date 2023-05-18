@@ -34,6 +34,10 @@
          width: 100%;
          max-width: 480px;
 
+         div p span{
+            font-weight: bold;
+         }
+
          
          button{
             background-color: transparent;
@@ -85,7 +89,16 @@
       justify-content: row;
       max-width: $screen-xxl-min;
       margin: auto;
+   }
 
+   h2{
+      margin: 0;
+      margin-bottom: 8px;
+
+      @include lg{
+         margin: 0;
+         margin-bottom: 16px;
+      }
    }
 
    li{
@@ -102,18 +115,34 @@
          margin: 0 8px;
       }
       
+      div{
+         width: 70%;
+      }
+      
       button{
          background-color: transparent;
          padding: 4px 12px;
       }
+     
+      
       aside{
             margin-left: auto;
-         img{
             width: 112px;
             height: 112px;
             border-radius: 100%;
-         }
+            background-size: cover;
+            background-position: center;
       }
+
+      .asideimg1{
+         background-image: url("../img/navbuttons/wrist4.jpg");
+      }
+      
+      .asideimg2{
+         background-image: url("../img/navbuttons/wrist1.jpg");
+      }
+      
+      
    }
 
 }
