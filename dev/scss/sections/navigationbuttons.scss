@@ -106,13 +106,27 @@
          background-color: transparent;
          padding: 4px 12px;
       }
+
       aside{
-            margin-left: auto;
-         img{
-            width: 112px;
             height: 112px;
+            width: 112px;
+            margin-left: auto;
+            background-position: center;
             border-radius: 100%;
-         }
+      }
+
+      .aside1{
+            background-image: url("../img/navbuttons/wrist1.jpg");
+            background-size: cover;
+
+            
+      }
+
+      .aside2{
+         background-image: url("../img/navbuttons/wrist4.jpg");
+         background-size: cover;
+
+
       }
    }
 
