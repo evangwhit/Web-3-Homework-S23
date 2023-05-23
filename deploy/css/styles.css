@@ -365,11 +365,11 @@ h1, h2, h3, h5, h6 {
 }
 
 h2, h3 {
-  font-size: 29px;
+  font-size: 1.8125rem;
 }
 
 h4 {
-  font-size: 24px;
+  font-size: 1.5rem;
 }
 
 /* =============

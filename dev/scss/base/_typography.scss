@@ -12,9 +12,9 @@ h1, h2, h3, h5, h6{
 }
 
 h2, h3{
-    font-size: 29px;
+    font-size: rem-calc(29);
 }
 
 h4{
-    font-size: 24px;
+    font-size: rem-calc(24);
 }
